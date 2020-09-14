@@ -1,2 +1,10 @@
-git add shoppinglist.txt
-git commit -m "shopping list"
+Shopping List:
+
+Bread
+Carrots
+Orange juice
+Milk
+Eggs
+Olive oil
+Mustard
+Toothpaste
